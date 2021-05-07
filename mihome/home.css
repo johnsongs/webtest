@@ -1,0 +1,44 @@
+.topwrapper{
+    min-width: 1226px;
+    position: relative;
+    height: 40px;
+    background-color: #333;
+    color: #b0b0b0;
+    font-size: 12px;
+}
+.topmenu {
+    min-width: 1226px;
+}
+.leftmenu {
+    float: left;
+    line-height: 40px;
+}
+.leftmenu a {
+    color: #b0b0b0;
+    text-decoration: none;
+}
+.rightmenu {
+    float: right;
+    line-height: 40px;
+}
+.rightmenu a {
+    color: #b0b0b0;
+    text-decoration: none;
+}
+
+.shopcart {
+    float: right;
+    line-height: 40px;
+}
+
+.shopcart a {
+    color: #b0b0b0;
+    text-decoration: none;
+}
+
+.line {
+    margin: 0px 5px;
+    width: 2px;
+    height: 15px;
+    background-color: #ffffff;
+}
